@@ -88,6 +88,8 @@ You’ll see logs like this:
 ```
 
 And screenshots will be saved in the root folder.
+
+## 🖥️ Output Screenshot
 ![output](https://github.com/user-attachments/assets/3da4c4be-1abe-4ebe-8429-236c53c0af9d)
 
 
