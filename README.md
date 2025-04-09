@@ -82,15 +82,16 @@ You’ll see logs like this:
 🔍 Search submitted
 ✅ Product 1
 🛍 Title : GoSriKi Women's Cotton Blend Kurti
-💰 Price : ₹539
+💰 Price : ₹579
 📸 Screenshot saved: product_1.png
 ...
 ```
 
 And screenshots will be saved in the root folder.
 
-## Example of product Screenshot
-![product_1](https://github.com/user-attachments/assets/46a51ccc-8252-4010-ba3b-2a9c5d852d67)
+## 📸 Example of a Saved Product Screenshot
+![product_4](https://github.com/user-attachments/assets/924599da-309b-46dc-84e5-5068bb3e32b3)
+
 
 
 ## 🖥️ Output Screenshot
